@@ -1,0 +1,3 @@
+ders.png, fef.png ve fzk.png resim dosyaları için ayrıntılar:
+    - Roboto, 24 pt
+    - yükseklik: 31 px
